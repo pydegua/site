@@ -6,7 +6,7 @@ layout: default
 
 PyD'Égua: Grupo de Usuários Python de Belém, Pará!
 
-Pai d'égua, pra quem não sabe, é uma expressão regional q significa "muito bom". 
+Pai d'égua, pra quem não sabe, é uma expressão regional q significa "muito bom".
 
 # Eventos
 
@@ -15,7 +15,7 @@ Pai d'égua, pra quem não sabe, é uma expressão regional q significa "muito b
 
 ## Submeta sua palestra!
 
-Para submeter uma palestra, se cadastre no (speakerfight)[https://speakerfight.com/events/1o-encontro-pydegua/], cadastre sua palestra, e divulgue! As mais votadas serão apresentadas no dia 21/10/2017. Submeta (aqui)[https://speakerfight.com/events/1o-encontro-pydegua/].
+Para submeter uma palestra, se cadastre no [speakerfight](https://speakerfight.com/events/1o-encontro-pydegua/), cadastre sua palestra, e divulgue! As mais votadas serão apresentadas no dia 21/10/2017. Submeta [aqui](https://speakerfight.com/events/1o-encontro-pydegua/).
 
 
 ## Como chegar?
@@ -32,5 +32,3 @@ Para submeter uma palestra, se cadastre no (speakerfight)[https://speakerfight.c
 * [Telegram](https://t.me/joinchat/GeSB2Q4ggvIp2lgk4wppYw)
 * Facebook
 * Twitter
-
-
