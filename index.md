@@ -12,11 +12,21 @@ Pai d'égua, pra quem não sabe, é uma expressão regional q significa "muito b
 
 * I Encontro PyD'Égua: Estácio FAP, 21 de Outubro de 2017.
 
+No nosso primeiro evento, teremos pela manhã uma série de palestras sobre Python e, pela tarde, um workshop mão na massa!
+
+A inscrição para o workshop custa R$ 20,00. Não é necessário incrição para palestras.
 
 ## Submeta sua palestra!
 
-Para submeter uma palestra, se cadastre no [speakerfight](https://speakerfight.com/events/1o-encontro-pydegua/), cadastre sua palestra, e divulgue! As mais votadas serão apresentadas no dia 21/10/2017. Submeta [aqui](https://speakerfight.com/events/1o-encontro-pydegua/).
+Para submeter uma palestra, se cadastre no [speakerfight](https://speakerfight.com/events/1o-encontro-pydegua/), cadastre sua palestra, e divulgue! As mais votadas serão apresentadas no dia 21/10/2017.
 
+Clique [aqui](https://speakerfight.com/events/1o-encontro-pydegua/) para submeter sua palestra!
+
+## Workshop Python: Mineração de dados públicos
+
+O workshop será *hands on*. Os participantes irão aprender como extrair dados de API de serviços publicos e gerar informação útil. O workshop terá 3 horas de duração. No fim, os participantes irão receber um certificado de participação.
+
+Clique [aqui](http://pydegua.python.org.br/) para se inscrever no workshop!
 
 ## Como chegar?
 
